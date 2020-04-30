@@ -4,7 +4,7 @@
 #include<stdio.h>
 #include <algorithm>
 #include<vector>
-
+//https://blog.csdn.net/weixin_34245169/article/details/94608973
 bool myfun(sheep& a,sheep& b){
     return a.weight>b.weight;
 }
